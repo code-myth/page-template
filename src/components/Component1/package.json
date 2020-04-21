@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "header",
+=======
+  "name": "component-body",
+>>>>>>> 19f48aeb60ebce6b6a12f52d399de9aaf2db0445
   "version": "0.1.0",
   "private": true,
   "dependencies": {
